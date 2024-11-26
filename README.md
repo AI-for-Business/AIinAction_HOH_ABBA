@@ -32,7 +32,7 @@ Cite as:
 
 *Introduction into Natural Language Processing and Modeling Methods by Muhammed-Fatih Kaya, licensed under
 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt),
-via [https://github.com/AI-for-Business/AIinAction_HOH_ABBA]*
+via https://github.com/AI-for-Business/AIinAction_HOH_ABBA*
 
 # DOI - Code
 [Generate DOI]
